@@ -1,7 +1,11 @@
+
+it
+is
+a
+rebase 1
+
 ok
-ew
-dd
-df
+
 foo(){
 printf()
 }
