@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ok
 ew
 dd
@@ -5,3 +6,13 @@ df
 foo(){
 printf()
 }
+||||||| d9c50a1
+=======
+it
+is
+a
+rebase 1
+fun fo(){
+	printf()
+}
+>>>>>>> test1
