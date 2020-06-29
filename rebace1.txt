@@ -16,3 +16,9 @@ fun fo(){
 	printf()
 }
 >>>>>>> test1
+||||||| merged common ancestors
+}
+>>>>>>>>> Temporary merge branch 2
+=======
+}
+>>>>>>> 1c26efdb8928b481ef669cf426cc134a48d659e5
