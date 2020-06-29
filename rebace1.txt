@@ -1,7 +1,11 @@
+
 it
 is
 a
 rebase 1
-fun fo(){
-	printf()
+
+ok
+
+foo(){
+printf()
 }
