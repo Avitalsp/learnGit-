@@ -1,0 +1,7 @@
+ok
+ew
+dd
+df
+foo(){
+printf()
+}
